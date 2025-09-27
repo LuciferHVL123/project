@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1 class="title">Welcome To This Page</h1>
+    <h1 class="title">Welcome To This Page</h1>
 </body>
 </html>
