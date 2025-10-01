@@ -1,2 +1,3 @@
 headers/
 *.txt
+!text.txt
